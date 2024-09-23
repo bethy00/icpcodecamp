@@ -10,17 +10,17 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: #101214;
-    color: #7A7C80;
+    background-color: #102C57;
+    color: #1679AB;
 
 }
 
 h2,.white{
-    color: #fff;
+    color: #FFB1B1;
 }
 
 a{
-    color: #7A7C80;
+    color: #1679AB;
     text-decoration: none;
 }
 /* section 1 */
@@ -66,7 +66,7 @@ a{
     padding: 5px;
     font-size: 1.2rem;
     padding-left: 0;
-    width: 100px;
+    width: 200px;
 }
 /* animations / utilities */
 .section-2 a:hover{
